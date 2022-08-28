@@ -1,0 +1,6 @@
+/Users/lolegandolfo/Documents/Algoritmos II/AyED2-Labo01/cmake-build-debug/CMakeFiles/tests_algobot.dir
+/Users/lolegandolfo/Documents/Algoritmos II/AyED2-Labo01/cmake-build-debug/CMakeFiles/tests_ejercitacion.dir
+/Users/lolegandolfo/Documents/Algoritmos II/AyED2-Labo01/cmake-build-debug/CMakeFiles/gtest.dir
+/Users/lolegandolfo/Documents/Algoritmos II/AyED2-Labo01/cmake-build-debug/CMakeFiles/gtest_main.dir
+/Users/lolegandolfo/Documents/Algoritmos II/AyED2-Labo01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lolegandolfo/Documents/Algoritmos II/AyED2-Labo01/cmake-build-debug/CMakeFiles/rebuild_cache.dir

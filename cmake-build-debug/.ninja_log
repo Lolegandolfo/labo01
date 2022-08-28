@@ -1,0 +1,17 @@
+# ninja log v5
+1	684	1661647432800727079	CMakeFiles/tests_ejercitacion.dir/src/algobot.cpp.o	32021349f9563652
+2	716	1661647432834347103	CMakeFiles/gtest_main.dir/tests/gtest-1.8.1/gtest_main.cc.o	c79b9ef229928c70
+2	1596	1661647433710704185	CMakeFiles/gtest.dir/tests/gtest-1.8.1/gtest-all.cc.o	8b75e0a53d39013c
+716	2266	1661647434387801000	libgtest_main.a	2fd534e5469d3c2
+3	39	1661647457912904000	libgtest.a	a7221af9d976d10c
+2	504	1661647458373719987	CMakeFiles/tests_algobot.dir/src/algobot.cpp.o	6b8e3b10ad8b3713
+2	634	1661647458505369046	CMakeFiles/tests_algobot.dir/tests/tests_algobot.cpp.o	8b8979bc9e413ace
+635	704	1661647458577319854	tests_algobot	5a28c2e8ef586909
+2	991	1661647487442770504	CMakeFiles/tests_ejercitacion.dir/tests/tests_funciones.cpp.o	f67b6dd106252194
+991	1064	1661647487525068149	tests_ejercitacion	a7e098bfffda33f9
+6	942	1661648154525044748	CMakeFiles/tests_ejercitacion.dir/tests/tests_funciones.cpp.o	f67b6dd106252194
+942	1013	1661648154601196845	tests_ejercitacion	a7e098bfffda33f9
+1	744	1661648169266482890	CMakeFiles/tests_ejercitacion.dir/tests/tests_funciones.cpp.o	f67b6dd106252194
+744	801	1661648169327560142	tests_ejercitacion	a7e098bfffda33f9
+3	858	1661648199596078161	CMakeFiles/tests_ejercitacion.dir/tests/tests_funciones.cpp.o	f67b6dd106252194
+858	917	1661648199658379215	tests_ejercitacion	a7e098bfffda33f9
